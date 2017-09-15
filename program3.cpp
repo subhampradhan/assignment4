@@ -1,3 +1,8 @@
+#include <iostream>
+using namespace std;
+
+
+
 void max(float a,float b)
 {
 	if(a>b)
